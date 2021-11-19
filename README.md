@@ -1,6 +1,9 @@
-## Hello World !! Me chamo Natan Gomes (Desenvolvedor FullStack Júnior)
-- Trabalho com Desenvolvimento Back-end em duas empresas, Assessoria Jurídica e Planejamento Tributário (Diogo Salles & Advogados / Receita Net)
+## Oláaááá !! Me chamo Natan Gomes (Desenvolvedor FullStack Júnior)
+- Trabalho com Desenvolvimento FullStack (Front-End e Back-End) em duas empresas, 
+- Assessoria Jurídica e Planejamento Tributário (Diogo Salles & Advogados / Receita Net)
 - Cursando Ciência de Dados na Faculdade Estácio de Sá
+- Front-End (HTML/CSS)
+- Back-End(MySQL/NodeJS/VueJS)
 
 <div align="center">
   <a href="https://github.com/N4t4nG0m3s">
