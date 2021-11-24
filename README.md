@@ -1,7 +1,7 @@
-## Oláaááá !! Me chamo Natan Gomes (Desenvolvedor FullStack Júnior)
-- Trabalho com Desenvolvimento FullStack (Front-End e Back-End) em duas empresas, 
+## Me chamo Natan Gomes (Desenvolvedor Backend NodeJS)
+- Trabalho com Desenvolvimento (Front-End e Back-End) em duas empresas, 
 - Assessoria Jurídica e Planejamento Tributário (Diogo Salles & Advogados / Receita Net)
-- Cursando Ciência de Dados na Faculdade Estácio de Sá
+- Cursando Ciência de Dados na Faculdade Estácio de Sá (1° período)
 - Front-End (HTML/CSS)
 - Back-End(MySQL/NodeJS/VueJS)
 
