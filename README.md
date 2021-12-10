@@ -1,4 +1,4 @@
-## Olá, me chamo Natan Gomes (Desenvolvedor Backend NodeJS)
+## Olá, me chamo Natan Gomes (Desenvolvedor JavaScript / Backend NodeJS)
 - Trabalho com Desenvolvimento (Front-End e Back-End) em duas empresas, 
 - Assessoria Jurídica e Planejamento Tributário (Diogo Salles & Advogados / Receita Net)
 - Cursando Ciência de Dados na Faculdade Estácio de Sá (1° período)
